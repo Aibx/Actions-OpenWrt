@@ -20,21 +20,21 @@ git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packag
 git clone https://github.com/kenzok8/small.git package/small
 git clone https://github.com/open-mesh-mirror/batman-adv.git package/batman-adv
 
-svn co https://github.com/kenzok8/luci-theme-ifit/trunk/luci-theme-ifit
-svn co https://github.com/garypang13/luci-theme-edge/branches/18.06 ./luci-theme-edge
-svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-tomato
-svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-mcat
-svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-argonne
-svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-neobird
-svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-Butterfly-dark
-svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-Butterfly
-svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-argon-mc
-svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-argon-mod
-svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-argonv2
-svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-argonv3
-svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-darkmatter
-svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-infinityfreedom
-svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-netgearv2
-svn co https://github.com/rosywrt/luci-theme-rosy/trunk/luci-theme-rosy
-svn co https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom/trunk/luci-theme-infinityfreedom
-svn co https://github.com/liuran001/openwrt-theme/trunk/luci-theme-argon-lr
+svn co https://github.com/kenzok8/luci-theme-ifit/trunk/luci-theme-ifit package/luci-theme-ifit
+svn co https://github.com/garypang13/luci-theme-edge/branches/18.06 package/luci-theme-edge
+svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-tomato package/luci-theme-tomato
+svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-mcat package/luci-theme-mcat
+svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-argonne package/luci-theme-argonne
+svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-neobird package/luci-theme-neobird
+svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-Butterfly-dark package/luci-theme-Butterfly-dark
+svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-Butterfly package/luci-theme-Butterfly
+svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-argon-mc package/luci-theme-argon-mc
+svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-argon-mod package/luci-theme-aagergon-mod
+svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-argonv2 package/luci-theme-argonv2
+svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-argonv3 package/luci-theme-argonv3
+svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-darkmatter package/luci-theme-darkmatter
+svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-infinityfreedom package/luci-theme-infinityfreedom
+svn co https://github.com/Aibx/Immortalwrt/trunk/package/ctcgfw/luci-theme-netgearv2 package/luci-theme-netgearv2
+svn co https://github.com/rosywrt/luci-theme-rosy/trunk/luci-theme-rosy package/luci-theme-rosy
+svn co https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom/trunk/luci-theme-infinityfreedom package/luci-theme-infinityfreedom
+svn co https://github.com/liuran001/openwrt-theme/trunk/luci-theme-argon-lr package/luci-theme-argon-lr
